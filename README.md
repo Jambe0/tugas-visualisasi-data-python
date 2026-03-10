@@ -6,12 +6,12 @@ Muhammad Jalallullail
 
 ## Dataset
 
-Dataset yang digunakan berasal dari Kaggle:
-
-Heart Attack Prediction Indonesia Dataset
+Dataset yang digunakan, Heart Attack Prediction Indonesia Dataset
 [kaggle.com](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-indonesia)
 
 Visualisasi yang ditampilkan, Bar Chart jumlah kasus serangan jantung berdasarkan status merokok
+
+<img width="300" height="1128" alt="Screenshot 2026-03-10 194440" src="https://github.com/user-attachments/assets/d6eaac8c-bf74-4735-9581-4d0b01976dd4" />
 
 ## Insight
 
